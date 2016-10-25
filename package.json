@@ -1,8 +1,7 @@
 {
   "name": "cordova-template-budo",
   "version": "0.0.1",
-  "description": "A barebones Cordova template that utilizes Matt DesLauriers' budo browserify dev server.
-",
+  "description": "A barebones Cordova template that utilizes Matt DesLauriers' budo browserify dev server.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +11,9 @@
     "cordova:template"
   ],
   "author": "Andy Dayton <amdayton@gmail.com> (http://andydayton.com/)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andyinabox/cordova-template-budo.git"
+  }
 }
