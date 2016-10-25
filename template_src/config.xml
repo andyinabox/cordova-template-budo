@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.blank" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Prototype</name>
+    <description>
+        Prototype
+    </description>
+    <author email="amdayton@gmail.com" href="http://andydayton.com">
+        Andy Dayton
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+
+    <!-- hooks -->
+    <hook type="before_build" src="scripts/before_build.js" />
+    
+    <!-- preferences -->
+    <preference name="EnableWebGL" value="true"/>
+
+</widget>
