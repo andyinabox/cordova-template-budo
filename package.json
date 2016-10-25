@@ -1,6 +1,6 @@
 {
   "name": "cordova-template-budo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A barebones Cordova template that utilizes Matt DesLauriers' budo browserify dev server.",
   "main": "index.js",
   "scripts": {
