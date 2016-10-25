@@ -1,7 +1,8 @@
 {
   "name": "cordova-template-budo",
   "version": "0.0.1",
-  "description": "Cordova prototyping template using the budo dev server",
+  "description": "A barebones Cordova template that utilizes Matt DesLauriers' budo browserify dev server.
+",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
